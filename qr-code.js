@@ -840,25 +840,7 @@
                   };
                 return n;
               }
-              // function defineProperty() {
-              //   var credits = document.createElement("div");
-              //   credits.innerHTML =
-              //     "A Project By <a href='https://www.youtube.com/channel/UCiUtBDVaSmMGKxg1HYeK-BQ' target=_blank>Open Source Coding</a>";
-              //   credits.style.position = "absolute";
-              //   credits.style.bottom = "0";
-              //   credits.style.right = "0";
-              //   credits.style.fontSize = "10px";
-              //   credits.style.color = "#ccc";
-              //   credits.style.fontFamily = "sans-serif";
-              //   credits.style.padding = "5px";
-              //   credits.style.background = "#fff";
-              //   credits.style.borderTopLeftRadius = "5px";
-              //   credits.style.borderBottomRightRadius = "5px";
-              //   credits.style.boxShadow = "0 0 5px #ccc";
-              //   document.body.appendChild(credits);
-              // }
-
-              defineProperty();
+            
               var h = (function () {
                   var t = [
                       [1, 26, 19],
